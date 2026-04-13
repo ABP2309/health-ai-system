@@ -1,11 +1,13 @@
 # Large Datasets (WESAD, MIMIC-IV, SisFall)
 data/
+!src/data/
 *.csv
 *.zip
 *.parquet
 
 # Model Binaries & Weights
 models/
+!src/models/
 *.h5
 *.pkl
 *.pb
