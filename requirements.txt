@@ -1,0 +1,19 @@
+# Core Machine Learning & Data Processing
+tensorflow
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+
+# Google Cloud & Vertex AI
+google-cloud-aiplatform
+google-cloud-storage
+google-cloud-logging
+
+# Backend & Utilities
+flask
+python-dotenv
+tqdm
+joblib
+smart_open

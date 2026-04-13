@@ -1,0 +1,18 @@
+# Large Datasets (WESAD, MIMIC-IV, SisFall)
+data/
+*.csv
+*.zip
+*.parquet
+
+# Model Binaries & Weights
+models/
+*.h5
+*.pkl
+*.pb
+
+# Virtual Environment & OS
+venv/
+.env
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
